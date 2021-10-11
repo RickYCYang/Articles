@@ -10,12 +10,15 @@
 - [Huli-ES6 Generator 基礎](https://github.com/aszx87410/blog/issues/1)  
 - [Huli-Promise, generator, async 與 ES6](https://github.com/aszx87410/blog/issues/2)  
 - [itsems-[JavaScript] Javascript 的事件循環 (Event Loop)、事件佇列 (Event Queue)、事件堆疊 (Call Stack)：排隊](https://medium.com/itsems-frontend/javascript-event-loop-event-queue-call-stack-74a02fed5625)
+- [itsems-[JavaScript] 一次搞懂同步與非同步的一切：一次做幾件事情 — 同步(Sync)與非同步(Async)](https://medium.com/itsems-frontend/javascript-sync-async-22e75e1ca1dc)
+- [itsems-[JavaScript] 一次搞懂同步與非同步的一切：待會叫你 — 回呼函式(Callback Function)](https://medium.com/itsems-frontend/javascript-callback-function-993abc2c0b42)
+- [itsems-[JavaScript] Javascript 的事件循環 (Event Loop)、事件佇列 (Event Queue)、事件堆疊 (Call Stack)：排隊](https://medium.com/itsems-frontend/javascript-event-loop-event-queue-call-stack-74a02fed5625)
+- [itsems-[JavaScript] 立馬執行的立即呼叫函式 (IIFEs)](https://medium.com/itsems-frontend/javascript-iifes-5d83aeec11de)
 - [卡斯伯-JavaScript Promise 全介紹](https://wcc723.github.io/development/2020/02/16/all-new-promise/). '
 - [JAVASCRIPT.INFO-Promise](https://javascript.info/promise-basics)
 - [Hannah-[面試] 考驗你對 Promise 的熟度之進階應用題](https://medium.com/starbugs/%E9%9D%A2%E8%A9%A6-%E8%80%83%E9%A9%97%E4%BD%A0%E5%B0%8D-promise-%E7%9A%84%E7%86%9F%E5%BA%A6%E4%B9%8B%E9%80%B2%E9%9A%8E%E6%87%89%E7%94%A8%E9%A1%8C-6eda0dd0d767)
 - [Hannah-[面試] 前端工程師一定要會的 JS 觀念題-中英對照之上篇](https://medium.com/starbugs/%E9%9D%A2%E8%A9%A6-%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%AB%E4%B8%80%E5%AE%9A%E8%A6%81%E6%9C%83%E7%9A%84-js-%E8%A7%80%E5%BF%B5%E9%A1%8C-%E4%B8%AD%E8%8B%B1%E5%B0%8D%E7%85%A7%E4%B9%8B%E4%B8%8A%E7%AF%87-3b0a3feda14f)
 - [Hannah-[面試] 前端工程師一定要會的 JS 觀念題-中英對照之下篇](https://medium.com/starbugs/%E9%9D%A2%E8%A9%A6-%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%AB%E4%B8%80%E5%AE%9A%E8%A6%81%E6%9C%83%E7%9A%84-js-%E8%A7%80%E5%BF%B5%E9%A1%8C-%E4%B8%AD%E8%8B%B1%E5%B0%8D%E7%85%A7%E4%B9%8B%E4%B8%8B%E7%AF%87-fd46292e374b)
-- 
 
 
 ## CSS
