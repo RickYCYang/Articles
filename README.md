@@ -2,7 +2,7 @@
 紀錄 & 推薦在學習過程中，一些前輩 ＆ 高手分享的文章
 
 ## JS
-[*Huli-深入探討 JavaScript 中的參數傳遞：call by value 還是 reference？](https://github.com/aszx87410/blog/issues/30)  
+- [Huli-深入探討 JavaScript 中的參數傳遞：call by value 還是 reference？](https://github.com/aszx87410/blog/issues/30)  
 [Huli-我知道你懂 hoisting，可是你了解到多深？](https://github.com/aszx87410/blog/issues/34)  
 [Huli-所有的函式都是閉包：談 JS 中的作用域與 Closure](https://github.com/aszx87410/blog/issues/35)  
 [Huli-該來理解 JavaScript 的原型鍊了](https://github.com/aszx87410/blog/issues/18)  
