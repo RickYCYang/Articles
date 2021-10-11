@@ -9,6 +9,7 @@
 - [Huli-淺談 JavaScript 頭號難題 this：絕對不完整，但保證好懂](https://github.com/aszx87410/blog/issues/39)  
 - [Huli-ES6 Generator 基礎](https://github.com/aszx87410/blog/issues/1)  
 - [Huli-Promise, generator, async 與 ES6](https://github.com/aszx87410/blog/issues/2)  
+- [itsems-[JavaScript] Javascript 的事件循環 (Event Loop)、事件佇列 (Event Queue)、事件堆疊 (Call Stack)：排隊](https://medium.com/itsems-frontend/javascript-event-loop-event-queue-call-stack-74a02fed5625)
 - [卡斯伯-JavaScript Promise 全介紹](https://wcc723.github.io/development/2020/02/16/all-new-promise/). '
 - [JAVASCRIPT.INFO-Promise](https://javascript.info/promise-basics)
 - [Hannah-[面試] 考驗你對 Promise 的熟度之進階應用題](https://medium.com/starbugs/%E9%9D%A2%E8%A9%A6-%E8%80%83%E9%A9%97%E4%BD%A0%E5%B0%8D-promise-%E7%9A%84%E7%86%9F%E5%BA%A6%E4%B9%8B%E9%80%B2%E9%9A%8E%E6%87%89%E7%94%A8%E9%A1%8C-6eda0dd0d767)
