@@ -21,7 +21,7 @@
 - [Ruta-【CSS】背景屬性--調整你的位置與大小](https://medium.com/@RUE503/css-%E8%83%8C%E6%99%AF%E5%B1%AC%E6%80%A7-%E8%AA%BF%E6%95%B4%E4%BD%A0%E7%9A%84%E4%BD%8D%E7%BD%AE%E8%88%87%E5%A4%A7%E5%B0%8F-964170fbe1ed)
 
 
-## Web's Others
+## Others
 - [PG-Cookie、LocalStorage、SessionStorage 差異](https://bebeboboha.github.io/2019/06/18/cookie-localstorage-sessionstorage/)
 - [Huli-CORS 完全手冊（一）：為什麼會發生 CORS 錯誤？](https://github.com/aszx87410/blog/issues/68). 
 - [Huli-CORS 完全手冊（二）：如何解決 CORS 問題？](https://github.com/aszx87410/blog/issues/69). 
