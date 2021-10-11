@@ -2,12 +2,9 @@
 紀錄 & 推薦在學習過程中，一些前輩 ＆ 高手分享的文章
 
 ## JS
-[Huli-深入探討 JavaScript 中的參數傳遞：call by value 還是 reference？](https://github.com/aszx87410/blog/issues/30)
-
-[Huli-我知道你懂 hoisting，可是你了解到多深？](https://github.com/aszx87410/blog/issues/34)
-
-[Huli-所有的函式都是閉包：談 JS 中的作用域與 Closure](https://github.com/aszx87410/blog/issues/35)
-
+[Huli-深入探討 JavaScript 中的參數傳遞：call by value 還是 reference？](https://github.com/aszx87410/blog/issues/30)  
+[Huli-我知道你懂 hoisting，可是你了解到多深？](https://github.com/aszx87410/blog/issues/34)  
+[Huli-所有的函式都是閉包：談 JS 中的作用域與 Closure](https://github.com/aszx87410/blog/issues/35)  
 [Huli-該來理解 JavaScript 的原型鍊了](https://github.com/aszx87410/blog/issues/18)
 
 [Huli-淺談 JavaScript 頭號難題 this：絕對不完整，但保證好懂](https://github.com/aszx87410/blog/issues/39)
@@ -28,17 +25,17 @@
 
 
 ## Web's Others
-[Huli-CORS 完全手冊（一）：為什麼會發生 CORS 錯誤？]
+[Huli-CORS 完全手冊（一）：為什麼會發生 CORS 錯誤？](https://github.com/aszx87410/blog/issues/68)
 
-[Huli-CORS 完全手冊（二）：如何解決 CORS 問題？]
+[Huli-CORS 完全手冊（二）：如何解決 CORS 問題？](https://github.com/aszx87410/blog/issues/69)
 
-[Huli-CORS 完全手冊（三）：CORS 詳解]
+[Huli-CORS 完全手冊（三）：CORS 詳解](https://github.com/aszx87410/blog/issues/70)
 
-[Huli-CORS 完全手冊（四）：一起看規範]
+[Huli-CORS 完全手冊（四）：一起看規範](https://github.com/aszx87410/blog/issues/71)
 
-[Huli-CORS 完全手冊（五）：跨來源的安全性問題]
+[Huli-CORS 完全手冊（五）：跨來源的安全性問題](https://github.com/aszx87410/blog/issues/72)
 
-[Huli-CORS 完全手冊（六）：總結、後記與遺珠]
+[Huli-CORS 完全手冊（六）：總結、後記與遺珠](https://github.com/aszx87410/blog/issues/73)
 
 
 ## React
