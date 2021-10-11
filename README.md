@@ -62,7 +62,6 @@
 
 
 ## Online Portfolio
-# Nextjs
 - [ILW Yennefer-Let's build Disney+ with Tailwind CSS & NEXT.JS! (Responsive, SSR React, Firebase & TMDB API)](https://www.youtube.com/watch?v=zMXHYSqltmU&ab_channel=ILWYennefer). 
 - [JavaScript Mastery-Build and Deploy a Google Maps Travel Companion Application | React.js](https://www.youtube.com/watch?v=UKdQjQX1Pko&list=WL&index=2&t=1754s&ab_channel=JavaScriptMastery)
 
