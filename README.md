@@ -16,15 +16,18 @@
 - [兔兔-排版神器 Tailwind CSS～和兔兔一起快速上手漂亮的元件開發](https://ithelp.ithome.com.tw/articles/10259296). 
 - [卡斯伯-圖解：CSS Flex 屬性一點也不難](https://wcc723.github.io/css/2017/07/21/css-flex/). 
 - [Hexschool-Bootstrap5 Utilities](https://bootstrap5.hexschool.com/docs/5.0/getting-started/introduction/). 
+- [歐瑞-CSS權重(specificity)：熟悉這6個樣式級別，讓你的樣式被採用](https://selflearningsuccess.com/css-specificity/)
 
 
 ## Web's Others
+- [PG-Cookie、LocalStorage、SessionStorage 差異](https://bebeboboha.github.io/2019/06/18/cookie-localstorage-sessionstorage/)
 - [Huli-CORS 完全手冊（一）：為什麼會發生 CORS 錯誤？](https://github.com/aszx87410/blog/issues/68). 
 - [Huli-CORS 完全手冊（二）：如何解決 CORS 問題？](https://github.com/aszx87410/blog/issues/69). 
 - [Huli-CORS 完全手冊（三）：CORS 詳解](https://github.com/aszx87410/blog/issues/70). 
 - [Huli-CORS 完全手冊（四）：一起看規範](https://github.com/aszx87410/blog/issues/71). 
 - [Huli-CORS 完全手冊（五）：跨來源的安全性問題](https://github.com/aszx87410/blog/issues/72). 
 - [Huli-CORS 完全手冊（六）：總結、後記與遺珠](https://github.com/aszx87410/blog/issues/73). 
+- [Huli-從 SessionStorage 開始一場 spec 之旅](https://github.com/aszx87410/blog/issues/62). 
 
 
 ## React
@@ -33,16 +36,31 @@
 
 
 ## Python
-[Abdulazeez Abdulazeez Adeshina-Securing FastAPI with JWT Token-based Authentication](https://testdriven.io/blog/fastapi-jwt-auth/). 
+- [Abdulazeez Abdulazeez Adeshina-Securing FastAPI with JWT Token-based Authentication](https://testdriven.io/blog/fastapi-jwt-auth/). 
+
+## Database
+- [Progressbar-「不是工程師」關聯式資料庫正規化是什麼? 先從第一正規化(1NF)開始吧！(database normalization, Primary Key - PK)](https://progressbar.tw/posts/265)
+- [Progressbar-「不是工程師」外鍵Foreign key(FK)是什麼？從第二正規化(2NF)去除冗余資料談起吧！(database normalization)](https://progressbar.tw/posts/267)
+- [Progressbar-「不是工程師」可以邏輯推斷出來就不要多加欄位？淺談資料庫第三正規化(3NF)](https://progressbar.tw/posts/270)
 
 
 ## Security
+- [Huli-讓我們來談談 CSRF](https://github.com/aszx87410/blog/issues/16)
+- [Huli-淺談 XSS 攻擊與防禦的各個環節](https://github.com/aszx87410/blog/issues/81)
+- [Hannah-[XSS 1] 從攻擊自己網站學 XSS (Cross-Site Scripting)](https://medium.com/hannah-lin/%E5%BE%9E%E6%94%BB%E6%93%8A%E8%87%AA%E5%B7%B1%E7%B6%B2%E7%AB%99%E5%AD%B8-xss-cross-site-scripting-%E5%8E%9F%E7%90%86%E7%AF%87-fec3d1864e42)
+- [Hannah-[XSS 2] 如何防禦 XSS 攻擊](https://medium.com/hannah-lin/xss-2-%E5%A6%82%E4%BD%95%E9%98%B2%E7%A6%A6-xss-%E6%94%BB%E6%93%8A-18fdf10ef5ef)
+- [Hannah-Content Security Policy (CSP) — 幫你網站列白名單吧](https://medium.com/hannah-lin/content-security-policy-csp-%E5%B9%AB%E4%BD%A0%E7%B6%B2%E7%AB%99%E5%88%97%E7%99%BD%E5%90%8D%E5%96%AE%E5%90%A7-df38c990f63c)
+- 
 
 ## Blog
 - [Huli's blog ](https://github.com/aszx87410/blog). 
 - [卡斯伯's blog](https://wcc723.github.io/). 
+- [Hannah](https://medium.com/hannah-lin). 
+- [Progressbar](https://progressbar.tw/posts). 
 
 
 ## Online Portfolio
 # Nextjs
-- [Let's build Disney+ with Tailwind CSS & NEXT.JS! (Responsive, SSR React, Firebase & TMDB API)](https://www.youtube.com/watch?v=zMXHYSqltmU&ab_channel=ILWYennefer). 
+- [ILW Yennefer-Let's build Disney+ with Tailwind CSS & NEXT.JS! (Responsive, SSR React, Firebase & TMDB API)](https://www.youtube.com/watch?v=zMXHYSqltmU&ab_channel=ILWYennefer). 
+- [JavaScript Mastery-Build and Deploy a Google Maps Travel Companion Application | React.js](https://www.youtube.com/watch?v=UKdQjQX1Pko&list=WL&index=2&t=1754s&ab_channel=JavaScriptMastery)
+
