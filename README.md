@@ -17,6 +17,8 @@
 - [卡斯伯-圖解：CSS Flex 屬性一點也不難](https://wcc723.github.io/css/2017/07/21/css-flex/). 
 - [Hexschool-Bootstrap5 Utilities](https://bootstrap5.hexschool.com/docs/5.0/getting-started/introduction/). 
 - [歐瑞-CSS權重(specificity)：熟悉這6個樣式級別，讓你的樣式被採用](https://selflearningsuccess.com/css-specificity/)
+- [卡斯伯-新手前端也不該犯的錯：圖片變形](https://wcc723.github.io/development/2020/10/11/img-cover/)
+- [Ruta-【CSS】背景屬性--調整你的位置與大小](https://medium.com/@RUE503/css-%E8%83%8C%E6%99%AF%E5%B1%AC%E6%80%A7-%E8%AA%BF%E6%95%B4%E4%BD%A0%E7%9A%84%E4%BD%8D%E7%BD%AE%E8%88%87%E5%A4%A7%E5%B0%8F-964170fbe1ed)
 
 
 ## Web's Others
