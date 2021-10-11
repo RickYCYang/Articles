@@ -55,8 +55,8 @@
 - 
 
 ## Blog
-- [Huli's blog ](https://github.com/aszx87410/blog). 
-- [卡斯伯's blog](https://wcc723.github.io/). 
+- [Huli](https://github.com/aszx87410/blog). 
+- [卡斯伯](https://wcc723.github.io/). 
 - [Hannah](https://medium.com/hannah-lin). 
 - [Progressbar](https://progressbar.tw/posts). 
 
