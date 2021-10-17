@@ -42,6 +42,7 @@
 - [Huli-CORS 完全手冊（六）：總結、後記與遺珠](https://github.com/aszx87410/blog/issues/73). 
 - [Hannah-簡單弄懂同源政策 (Same Origin Policy) 與跨網域 (CORS)](https://medium.com/starbugs/%E5%BC%84%E6%87%82%E5%90%8C%E6%BA%90%E6%94%BF%E7%AD%96-same-origin-policy-%E8%88%87%E8%B7%A8%E7%B6%B2%E5%9F%9F-cors-e2e5c1a53a19)
 - [Huli-從 SessionStorage 開始一場 spec 之旅](https://github.com/aszx87410/blog/issues/62). 
+- [莫力全-身為前端開發者，你不能不知道的 Runtime Performance Debug 技巧](https://medium.com/starbugs/%E8%BA%AB%E7%82%BA%E5%89%8D%E7%AB%AF%E9%96%8B%E7%99%BC%E8%80%85-%E4%BD%A0%E4%B8%8D%E8%83%BD%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84-runtime-performance-debug-%E6%8A%80%E5%B7%A7-4f0efd27b86d)
 
 
 ## React
@@ -87,9 +88,5 @@
 - [卡斯伯](https://wcc723.github.io/). 
 - [Hannah](https://medium.com/hannah-lin). 
 - [Progressbar](https://progressbar.tw/posts). 
-
-
-## Online Portfolio Tutorial
-- [ILW Yennefer-Let's build Disney+ with Tailwind CSS & NEXT.JS! (Responsive, SSR React, Firebase & TMDB API)](https://www.youtube.com/watch?v=zMXHYSqltmU&ab_channel=ILWYennefer). 
-- [JavaScript Mastery-Build and Deploy a Google Maps Travel Companion Application | React.js](https://www.youtube.com/watch?v=UKdQjQX1Pko&list=WL&index=2&t=1754s&ab_channel=JavaScriptMastery)
+- [莫力全](https://oldmo860617.medium.com/)
 
