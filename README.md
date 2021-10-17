@@ -9,6 +9,8 @@
 - [Huli-淺談 JavaScript 頭號難題 this：絕對不完整，但保證好懂](https://github.com/aszx87410/blog/issues/39)  
 - [Huli-ES6 Generator 基礎](https://github.com/aszx87410/blog/issues/1)  
 - [Huli-Promise, generator, async 與 ES6](https://github.com/aszx87410/blog/issues/2)  
+- [Huli-JavaScript 中的同步與非同步（上）](https://github.com/aszx87410/blog/issues/49)
+- [JSConf-所以說event loop到底是什麼玩意兒？](https://www.youtube.com/watch?v=8aGhZQkoFbQ&ab_channel=JSConf)
 - [itsems-[JavaScript] Javascript 的事件循環 (Event Loop)、事件佇列 (Event Queue)、事件堆疊 (Call Stack)：排隊](https://medium.com/itsems-frontend/javascript-event-loop-event-queue-call-stack-74a02fed5625)
 - [itsems-[JavaScript] 一次搞懂同步與非同步的一切：一次做幾件事情 — 同步(Sync)與非同步(Async)](https://medium.com/itsems-frontend/javascript-sync-async-22e75e1ca1dc)
 - [itsems-[JavaScript] 一次搞懂同步與非同步的一切：待會叫你 — 回呼函式(Callback Function)](https://medium.com/itsems-frontend/javascript-callback-function-993abc2c0b42)
