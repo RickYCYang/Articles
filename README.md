@@ -88,6 +88,7 @@
 - [Hannah-[XSS 2] 如何防禦 XSS 攻擊](https://medium.com/hannah-lin/xss-2-%E5%A6%82%E4%BD%95%E9%98%B2%E7%A6%A6-xss-%E6%94%BB%E6%93%8A-18fdf10ef5ef)
 - [Hannah-Content Security Policy (CSP) — 幫你網站列白名單吧](https://medium.com/hannah-lin/content-security-policy-csp-%E5%B9%AB%E4%BD%A0%E7%B6%B2%E7%AB%99%E5%88%97%E7%99%BD%E5%90%8D%E5%96%AE%E5%90%A7-df38c990f63c)
 - [XSS - localStorage vs Cookies](https://academind.com/tutorials/localstorage-vs-cookies-xss)
+- [Cyber Security Base 2022](https://cybersecuritybase.mooc.fi/module-2.1)
 
 ## Blog
 - [Huli](https://github.com/aszx87410/blog). 
