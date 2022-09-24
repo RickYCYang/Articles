@@ -53,6 +53,7 @@
 - [ArvinH-進階 React Component Patterns 筆記（上)](https://blog.techbridge.cc/2018/06/27/advanced-react-component-patterns-note/)
 - [ArvinH-進階 React Component Patterns 筆記（下)](https://blog.techbridge.cc/2018/07/21/advanced-react-component-patterns-note-II/)
 - [Controlled and uncontrolled form inputs in React don't have to be complicated](https://goshacmd.com/controlled-vs-uncontrolled-inputs-react/)
+- [How to use React Context effectively](https://kentcdodds.com/blog/how-to-use-react-context-effectively)
 
 ## Unit Test
 - [(React)Hannah-[Jest+Enzyme 1] 從基本語法開始測試人生](https://medium.com/hannah-lin/jest-enzyme-1-%E5%B0%B1%E5%BE%9E%E8%A8%88%E6%95%B8%E5%99%A8%E9%96%8B%E5%A7%8B-bd4d7d223f72)
