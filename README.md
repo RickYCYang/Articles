@@ -67,6 +67,9 @@
 - [(React)Hannah-[Cypress 3] 看官方文件學習 Variable and Aliases、Hooks、其他](https://medium.com/hannah-lin/cypress-3-%E7%9C%8B%E5%AE%98%E6%96%B9%E6%96%87%E4%BB%B6%E5%AD%B8%E7%BF%92-variable-and-aliases-hook-%E5%85%B6%E4%BB%96-c898228a5dcd). 
 - [(React)Hannah-[Cypress 4] 運用在真實世界的 E2E — 以 2020 六角鐵人賽文章搜尋器為例](https://medium.com/hannah-lin/cypress-4-%E9%81%8B%E7%94%A8%E5%9C%A8%E7%9C%9F%E5%AF%A6%E4%B8%96%E7%95%8C%E7%9A%84-e2e-%E4%BB%A5-2020-%E5%85%AD%E8%A7%92%E9%90%B5%E4%BA%BA%E8%B3%BD%E6%96%87%E7%AB%A0%E6%90%9C%E5%B0%8B%E5%99%A8%E7%82%BA%E4%BE%8B-d676c74f05d2).  
 
+## React Native
+- [Awesome React Native](https://github.com/jondot/awesome-react-native)
+- [React Native Paper](https://callstack.github.io/react-native-paper/)
 
 ## Python
 - [Abdulazeez Abdulazeez Adeshina-Securing FastAPI with JWT Token-based Authentication](https://testdriven.io/blog/fastapi-jwt-auth/). 
