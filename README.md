@@ -101,13 +101,6 @@
 - [XSS - localStorage vs Cookies](https://academind.com/tutorials/localstorage-vs-cookies-xss)
 - [Cyber Security Base 2022](https://cybersecuritybase.mooc.fi/module-2.1)
 
-## Blog
-- [Huli](https://github.com/aszx87410/blog). 
-- [卡斯伯](https://wcc723.github.io/). 
-- [Hannah](https://medium.com/hannah-lin). 
-- [Progressbar](https://progressbar.tw/posts). 
-- [莫力全](https://oldmo860617.medium.com/)
-
 ## Tutorial 
 - [Helsinki 2022 Full Stack Project](https://fullstackopen.com/en/)
 
